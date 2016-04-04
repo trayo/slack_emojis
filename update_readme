@@ -1,0 +1,21 @@
+#!/bin/bash
+
+read -r -d '' description<<EOF
+# emoji
+A repository for custom emoji. Inspired by [csparker247/emoji](https://github.com/Fauntleroy/emoji), which was inspired by [Fauntleroy/emoji](https://github.com/Fauntleroy/emoji).
+EOF
+
+username=$(git config --get user.username)
+repo=$(basename `git rev-parse --show-toplevel`)
+url="https://raw.githubusercontent.com/$username/$repo/master"
+
+# enable extglob to use ls regex matching
+shopt -s extglob
+files=$(ls -d !(README.md|update_readme))
+shopt -u extglob
+
+printf "$description\n\n" > README.md
+
+for f in $files; do
+  printf "![]($url/$f)\n\n" >> README.md
+done
