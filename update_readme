@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# How to use
+# 1. Add new emoji or remove an emoji
+# 2. Run `./update_readme`
+# 3. ???
+# 4. Profit!
+
+# Edit this section for your own readme
 read -r -d '' description<<EOF
 # emoji
 A repository for custom emoji. Inspired by [csparker247/emoji](https://github.com/Fauntleroy/emoji), which was inspired by [Fauntleroy/emoji](https://github.com/Fauntleroy/emoji).
