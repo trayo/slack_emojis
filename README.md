@@ -31,12 +31,6 @@ A repository for custom emoji. Inspired by [csparker247/emoji](https://github.co
 
 ![](https://raw.githubusercontent.com/trayo/slack_emojis/master/git.png)
 
-![](https://raw.githubusercontent.com/trayo/slack_emojis/master/good_hands.jpg)
-
-![](https://raw.githubusercontent.com/trayo/slack_emojis/master/good_hands_left.jpg)
-
-![](https://raw.githubusercontent.com/trayo/slack_emojis/master/good_hands_right.jpg)
-
 ![](https://raw.githubusercontent.com/trayo/slack_emojis/master/jackie.jpg)
 
 ![](https://raw.githubusercontent.com/trayo/slack_emojis/master/just_do_it.png)
