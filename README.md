@@ -13,6 +13,8 @@ A repository for custom emoji. Inspired by [csparker247/emoji](https://github.co
 
 ![](https://raw.githubusercontent.com/trayo/slack_emojis/master/challenge_accepted.png)
 
+![](https://raw.githubusercontent.com/trayo/slack_emojis/master/clippy.png)
+
 ![](https://raw.githubusercontent.com/trayo/slack_emojis/master/cp_head.png)
 
 ![](https://raw.githubusercontent.com/trayo/slack_emojis/master/cp_neck.png)
