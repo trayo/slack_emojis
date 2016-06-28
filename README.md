@@ -59,6 +59,8 @@ A repository for custom emoji. Inspired by [csparker247/emoji](https://github.co
 
 ![](https://raw.githubusercontent.com/trayo/slack_emojis/master/sad_panda_2.png)
 
+![](https://raw.githubusercontent.com/trayo/slack_emojis/master/salt.png)
+
 ![](https://raw.githubusercontent.com/trayo/slack_emojis/master/tip.gif)
 
 ![](https://raw.githubusercontent.com/trayo/slack_emojis/master/upvote.png)
